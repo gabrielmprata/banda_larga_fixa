@@ -1,4 +1,4 @@
-# 🛜 Anatel - Acessos de Banda Larga Fixa no Brasil :chart_with_upwards_trend:
+# 🛜 Anatel - Acessos de Banda Larga Fixa no Brasil
 
 <p align="left">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>  
