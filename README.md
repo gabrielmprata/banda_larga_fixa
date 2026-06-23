@@ -40,3 +40,13 @@ Paleta completa usada na página:
 |--------------|-----------|-------------------------------|
 | `--border`   | ![#1a2d45](https://placehold.co/15x15/1a2d45/1a2d45/png) `#1a2d45` | Borda padrão                  |
 | `--border2`  | ![#243d59](https://placehold.co/15x15/243d59/243d59/png) `#243d59` | Borda em destaque/hover        |
+
+## Cores de destaque (accent)
+
+| Variável    | Hex       | Uso                                                       |
+|-------------|-----------|-------------------------------------------------------------|
+| `--cyan`    | ![#00d4ff](https://placehold.co/15x15/00d4ff/00d4ff/png) `#00d4ff` | Cor-assinatura — títulos, links, badges, glow              |
+| `--blue`    | ![#1a6fff](https://placehold.co/15x15/1a6fff/1a6fff/png) `#1a6fff` | Segunda cor de destaque (gradientes, hero)                 |
+| `--orange`  | ![#ff6b35](https://placehold.co/15x15/ff6b35/ff6b35/png) `#ff6b35` | Alertas, seção "Problemas Identificados"                   |
+| `--green`   | ![#00e676](https://placehold.co/15x15/00e676/00e676/png) `#00e676` | Indicadores positivos (crescimento, status)                |
+
