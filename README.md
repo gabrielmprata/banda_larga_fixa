@@ -20,3 +20,7 @@ https://gabrielmprata.github.io/banda_larga_fixa/
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> definindo uma paleta de design tokens (rose, teal, amber, ink, mist).
 - Fontes do **Google Fonts**: **Playfair Display** (serifada, para títulos), **Inter** (sans-serif, para texto) e **JetBrains Mono** (monoespaçada, para labels/dados).
 - Efeitos modernos como `backdrop-filter: blur()` na navbar (efeito vidro/glassmorphism).
+
+## 🎨 UI/UX
+
+Paleta completa usada na página:
