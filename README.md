@@ -29,7 +29,7 @@ Paleta completa usada na página:
 
 | Variável     | Hex       | Uso                                |
 |--------------|-----------|-------------------------------------|
-| `--bg`       | `#06090f` | Fundo geral da página              |
-| `--surface`  | `#0a0f1a` | Superfícies (menu mobile, nav)     |
-| `--card`     | `#0e1520` | Fundo dos cards                    |
-| `--card2`    | `#111d2e` | Hover de cards/stats                |
+| `--bg`       | ![#06090f](https://placehold.co/15x15/06090f/06090f/png) `#06090f` | Fundo geral da página              |
+| `--surface`  | ![#0a0f1a](https://placehold.co/15x15/0a0f1a/0a0f1a/png) `#0a0f1a` | Superfícies (menu mobile, nav)     |
+| `--card`     | ![#0e1520](https://placehold.co/15x15/0e1520/0e1520/png) `#0e1520` | Fundo dos cards                    |
+| `--card2`    | ![#111d2e](https://placehold.co/15x15/111d2e/111d2e/png) `#111d2e` | Hover de cards/stats                |
