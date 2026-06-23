@@ -24,3 +24,12 @@ https://gabrielmprata.github.io/banda_larga_fixa/
 ## 🎨 UI/UX
 
 Paleta completa usada na página:
+
+## Background
+
+| Variável     | Hex       | Uso                                |
+|--------------|-----------|-------------------------------------|
+| `--bg`       | `#06090f` | Fundo geral da página              |
+| `--surface`  | `#0a0f1a` | Superfícies (menu mobile, nav)     |
+| `--card`     | `#0e1520` | Fundo dos cards                    |
+| `--card2`    | `#111d2e` | Hover de cards/stats                |
