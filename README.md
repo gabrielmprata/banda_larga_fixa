@@ -33,3 +33,10 @@ Paleta completa usada na página:
 | `--surface`  | ![#0a0f1a](https://placehold.co/15x15/0a0f1a/0a0f1a/png) `#0a0f1a` | Superfícies (menu mobile, nav)     |
 | `--card`     | ![#0e1520](https://placehold.co/15x15/0e1520/0e1520/png) `#0e1520` | Fundo dos cards                    |
 | `--card2`    | ![#111d2e](https://placehold.co/15x15/111d2e/111d2e/png) `#111d2e` | Hover de cards/stats                |
+
+## Bordas
+
+| Variável     | Hex       | Uso                          |
+|--------------|-----------|-------------------------------|
+| `--border`   | ![#1a2d45](https://placehold.co/15x15/1a2d45/1a2d45/png) `#1a2d45` | Borda padrão                  |
+| `--border2`  | ![#243d59](https://placehold.co/15x15/243d59/243d59/png) `#243d59` | Borda em destaque/hover        |
