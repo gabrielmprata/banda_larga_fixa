@@ -64,7 +64,7 @@ Paleta completa usada na página:
 | Variável        | Valor                              | Uso                              |
 |-----------------|--------------------------------------|------------------------------------|
 | `--glow-cyan`   | ![#00d4ff](https://placehold.co/15x15/00d4ff/00d4ff/png) `0 0 32px rgba(0,212,255,.12)`      | Box-shadow de destaque cyan        |
-| `--glow-blue`   | `0 0 32px rgba(26,111,255,.12)`     | Box-shadow de destaque azul        |
+| `--glow-blue`   | ![#1a6fff](https://placehold.co/15x15/1a6fff/1a6fff/png) `0 0 32px rgba(26,111,255,.12)`     | Box-shadow de destaque azul        |
 
 ## Tons adicionais (hardcoded, fora das variáveis)
 
