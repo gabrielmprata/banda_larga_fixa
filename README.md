@@ -59,3 +59,20 @@ Paleta completa usada na página:
 | `--muted2`   | ![#6a8aaa](https://placehold.co/15x15/6a8aaa/6a8aaa/png) `#6a8aaa` | Texto secundário                |
 | `--muted`    | ![#4a6580](https://placehold.co/15x15/4a6580/4a6580/png) `#4a6580` | Texto terciário/labels          |
 
+## Glows / Efeitos
+
+| Variável        | Valor                              | Uso                              |
+|-----------------|--------------------------------------|------------------------------------|
+| `--glow-cyan`   | `0 0 32px rgba(0,212,255,.12)`      | Box-shadow de destaque cyan        |
+| `--glow-blue`   | `0 0 32px rgba(26,111,255,.12)`     | Box-shadow de destaque azul        |
+
+## Tons adicionais (hardcoded, fora das variáveis)
+
+| Hex       | Uso                                  |
+|-----------|----------------------------------------|
+| ![#6ea8ff](https://placehold.co/15x15/6ea8ff/6ea8ff/png) `#6ea8ff` | Texto de tags/badges azuis             |
+| ![#a8d8f0](https://placehold.co/15x15/a8d8f0/a8d8f0/png) `#a8d8f0` | Texto base dos blocos de código DAX    |
+| ![#c792ea](https://placehold.co/15x15/c792ea/c792ea/png) `#c792ea` | Funções DAX (roxo)                     |
+| ![#f78c6c](https://placehold.co/15x15/f78c6c/f78c6c/png) `#f78c6c` | Números DAX (laranja)                  |
+
+---
