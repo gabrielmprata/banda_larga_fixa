@@ -50,3 +50,12 @@ Paleta completa usada na página:
 | `--orange`  | ![#ff6b35](https://placehold.co/15x15/ff6b35/ff6b35/png) `#ff6b35` | Alertas, seção "Problemas Identificados"                   |
 | `--green`   | ![#00e676](https://placehold.co/15x15/00e676/00e676/png) `#00e676` | Indicadores positivos (crescimento, status)                |
 
+## Texto
+
+| Variável     | Hex       | Uso                          |
+|--------------|-----------|--------------------------------|
+| `--head`     | ![#ddeeff](https://placehold.co/15x15/ddeeff/ddeeff/png) `#ddeeff` | Títulos (h1–h4)                |
+| `--text`     | ![#b8cfe0](https://placehold.co/15x15/b8cfe0/b8cfe0/png) `#b8cfe0` | Corpo de texto principal        |
+| `--muted2`   | ![#6a8aaa](https://placehold.co/15x15/6a8aaa/6a8aaa/png) `#6a8aaa` | Texto secundário                |
+| `--muted`    | ![#4a6580](https://placehold.co/15x15/4a6580/4a6580/png) `#4a6580` | Texto terciário/labels          |
+
