@@ -24,6 +24,16 @@ https://gabrielmprata.github.io/banda_larga_fixa/
 - Fontes do **Google Fonts**: **Playfair Display** (serifada, para títulos), **Inter** (sans-serif, para texto) e **JetBrains Mono** (monoespaçada, para labels/dados).
 - Efeitos modernos como `backdrop-filter: blur()` na navbar (efeito vidro/glassmorphism).
 
+### Gráficos / Dados
+<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/> usado para renderizar múltiplos gráficos (pelo menos 5 instâncias de `new Chart(...)`).
+- Plugin **[chartjs-plugin-datalabels](https://chartjs-plugin-datalabels.netlify.app/) v2.2.0** — para mostrar rótulos de dados diretamente nos gráficos.
+
+### JavaScript
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> com um bloco `<script>` controlando a lógica de inicialização dos gráficos.
+
+### Conteúdo
+- Dados sobre como os brasileiros nascem, com base no **SINASC 2023**.
+
 ## 🎨 UI/UX
 
 Paleta completa usada na página:
