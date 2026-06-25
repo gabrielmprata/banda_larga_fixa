@@ -10,6 +10,9 @@ Página estática construída para o GitHub Pages, explorando dados públicos do
 
 https://gabrielmprata.github.io/banda_larga_fixa/
 
+<img width="1572" height="1275" alt="demo" src="https://github.com/user-attachments/assets/ae2d8dca-93f7-4449-8547-5947acf3d53d" />
+
+
 ## 🛠️ Tecnologias
 
 ### Estrutura
