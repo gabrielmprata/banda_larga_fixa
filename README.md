@@ -86,5 +86,13 @@ Paleta completa usada na página:
 | ![#c792ea](https://placehold.co/15x15/c792ea/c792ea/png) `#c792ea` | Funções DAX (roxo)                     |
 | ![#f78c6c](https://placehold.co/15x15/f78c6c/f78c6c/png) `#f78c6c` | Números DAX (laranja)                  |
 
+# 👨‍💼💻 Author 
+Gabriel Prata
+
+Built with Data, Analytics & Coffee
+
+
+
+
 
 
