@@ -31,8 +31,6 @@ https://gabrielmprata.github.io/banda_larga_fixa/
 ### JavaScript
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> com um bloco `<script>` controlando a lógica de inicialização dos gráficos.
 
-### Conteúdo
-- Dados sobre como os brasileiros nascem, com base no **SINASC 2023**.
 
 ## 🎨 UI/UX
 
